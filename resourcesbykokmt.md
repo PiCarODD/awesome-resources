@@ -4,9 +4,10 @@
   * https://littlemaninmyhead.wordpress.com/2020/06/08/understanding-certificate-pinning/
 2. Security Report Writing
   * https://www.cs.tufts.edu/~nr/pubs/learn.pdf
+  * https://cheatsheetseries.owasp.org/cheatsheets/Choosing_and_Using_Security_Questions_Cheat_Sheet.html
   * https://github.com/juliocesarfort/public-pentesting-reports
 3. Security Cheet Sheet For Developers and Security auditors.
-  * 
+  * https://questions.wizardzines.com/http-status-codes.html
   * http://gosecure.github.io/security-cheat-sheet/
   * https://blog.presidentbeef.com/blog/2020/01/14/injection-prevention-sanitizing-vs-escaping/
 4. Bug Reports
@@ -48,6 +49,9 @@
   * https://github.com/JoyChou93/java-sec-code
   * https://github.com/wcventure/FuzzingPaper
 9. Web Pentest
+  * https://pwnisher.gitlab.io/nodejs/sandbox/2019/02/21/sandboxing-nodejs-is-hard.html
+  * https://portswigger.net/research/dom-based-angularjs-sandbox-escapes
+  * http://dfkaye.github.io/2014/03/14/javascript-eval-and-function-constructor/
   * https://www.youtube.com/watch?v=kbi2KaAzTLg&feature=youtu.be
   * https://old.reddit.com/r/websecurityresearch/
   * https://twitter.com/ippsec/status/1208927508256698369?s=19
@@ -67,3 +71,13 @@
   * https://securosis.com/assets/library/reports/API_Gateways_Enabling_Innovation_FINAL.pdf
   * https://nevatech.com/blog/post/What-you-need-to-know-about-securing-APIs-with-mutual-certificates
   * http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+11. Road to OSWE
+  * https://www.blackhat.com/docs/us-16/materials/us-16-Kaiser-Pwning-Your-Java-Messaging-With-Deserialization-Vulnerabilities.pdf
+  * https://deadcode.me/blog/2016/09/02/Blind-Java-Deserialization-Commons-Gadgets.html
+  * https://pwnisher.gitlab.io/nodejs/sandbox/2019/02/21/sandboxing-nodejs-is-hard.html
+  * https://portswigger.net/research/dom-based-angularjs-sandbox-escapes
+  * https://www.youtube.com/watch?v=GjwduwSltNU (Yoserial in ctf)
+  * https://www.youtube.com/watch?v=kiGoOuuXWFI&t=38s ( XXE in ctf)
+  * https://www.youtube.com/watch?v=O7-qHZFxjgk ( LFI )
+  * https://www.youtube.com/watch?v=DYLDG_2Vs3E ( time base sql with script)
+  * https://www.youtube.com/watch?v=HbzI3ubOos0 (Steal cookie with XSS)
