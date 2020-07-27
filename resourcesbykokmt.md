@@ -6,12 +6,14 @@
   * https://www.cs.tufts.edu/~nr/pubs/learn.pdf
   * https://cheatsheetseries.owasp.org/cheatsheets/Choosing_and_Using_Security_Questions_Cheat_Sheet.html
   * https://github.com/juliocesarfort/public-pentesting-reports
+  * https://vulnrepo.com/
 3. Security Cheet Sheet For Developers and Security auditors.
   * https://questions.wizardzines.com/http-status-codes.html
   * http://gosecure.github.io/security-cheat-sheet/
   * https://blog.presidentbeef.com/blog/2020/01/14/injection-prevention-sanitizing-vs-escaping/
 4. Bug Reports
   * https://medium.com/entersoftsecurity/a-secret-note-to-bug-hunters-about-url-structure-and-its-parsers-2982f70ff6d6
+  * http://lsd-pl.net/
   * https://offensi.com/2019/12/16/4-google-cloud-shell-bugs-explained-introduction/
   * https://blog.darabi.me/2020/06/image-removal-vulnerability-on-facebook.html
   * https://hazana.xyz/posts/cors-blimey/
@@ -49,6 +51,7 @@
   * https://github.com/JoyChou93/java-sec-code
   * https://github.com/wcventure/FuzzingPaper
 9. Web Pentest
+  * https://speakerdeck.com/lweichselbaum/o-securing-web-apps-with-modern-platform-features
   * https://pwnisher.gitlab.io/nodejs/sandbox/2019/02/21/sandboxing-nodejs-is-hard.html
   * https://portswigger.net/research/dom-based-angularjs-sandbox-escapes
   * http://dfkaye.github.io/2014/03/14/javascript-eval-and-function-constructor/
@@ -63,6 +66,7 @@
   * https://www.youtube.com/watch?v=558MFgH1t9g&feature=emb_logo
   * https://github.com/imperva/automatic-api-attack-tool
 10. API Security Checklist
+  * https://rhinosecuritylabs.com/application-security/simplifying-api-pentesting-swagger-files/
   * https://unit42.paloaltonetworks.com/attackers-tactics-and-techniques-in-unsecured-docker-daemons-revealed/
   * https://github.com/smodnix/31-days-of-API-Security-Tips
   * https://owasp.org/www-project-api-security/
@@ -74,6 +78,7 @@
 11. Road to OSWE
   * https://www.blackhat.com/docs/us-16/materials/us-16-Kaiser-Pwning-Your-Java-Messaging-With-Deserialization-Vulnerabilities.pdf
   * https://deadcode.me/blog/2016/09/02/Blind-Java-Deserialization-Commons-Gadgets.html
+  * https://deadcode.me/blog/2016/09/18/Blind-Java-Deserialization-Part-II.html
   * https://pwnisher.gitlab.io/nodejs/sandbox/2019/02/21/sandboxing-nodejs-is-hard.html
   * https://portswigger.net/research/dom-based-angularjs-sandbox-escapes
   * https://www.youtube.com/watch?v=GjwduwSltNU (Yoserial in ctf)
