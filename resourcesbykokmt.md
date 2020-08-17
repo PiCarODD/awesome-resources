@@ -52,6 +52,7 @@
   * https://github.com/wcventure/FuzzingPaper
 9. Web Pentest
   * https://speakerdeck.com/lweichselbaum/o-securing-web-apps-with-modern-platform-features
+  * https://docs.google.com/spreadsheets/d/1jn3JnWzQFZW41gKo5Fhxwf2ke2w-pvrpCGhBmKhyIBE/edit#gid=0
   * https://pwnisher.gitlab.io/nodejs/sandbox/2019/02/21/sandboxing-nodejs-is-hard.html
   * https://portswigger.net/research/dom-based-angularjs-sandbox-escapes
   * http://dfkaye.github.io/2014/03/14/javascript-eval-and-function-constructor/
@@ -65,6 +66,7 @@
   * https://blog.zeddyu.info/2019/12/08/HTTP-Smuggling-en/
   * https://www.youtube.com/watch?v=558MFgH1t9g&feature=emb_logo
   * https://github.com/imperva/automatic-api-attack-tool
+  * https://ctf-wiki.github.io/ctf-wiki/web/php/php/#preg_match-code-execution php
 10. API Security Checklist
   * https://rhinosecuritylabs.com/application-security/simplifying-api-pentesting-swagger-files/
   * https://unit42.paloaltonetworks.com/attackers-tactics-and-techniques-in-unsecured-docker-daemons-revealed/
@@ -75,6 +77,13 @@
   * https://securosis.com/assets/library/reports/API_Gateways_Enabling_Innovation_FINAL.pdf
   * https://nevatech.com/blog/post/What-you-need-to-know-about-securing-APIs-with-mutual-certificates
   * http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+  * https://github.com/ticarpi/jwt_tool/wiki
+  * https://www.slideshare.net/prabathsiriwardena/api-security-patterns-and-practices
+  * https://www.freecodecamp.org/news/best-practices-for-building-api-keys-97c26eabfea9/
+  * https://www.slideshare.net/jcleblanc/modern-api-security-with-json-web-tokens
+  * https://speakerdeck.com/samjulien/becoming-a-secret-agent-securing-your-graphql-backend-with-jwts?slide=92
+  * https://speakerdeck.com/genehack/json-web-tokens-will-improve-your-life-2?slide=64
+  * https://owasp.org/www-chapter-vancouver/assets/presentations/2020-01_Attacking_and_Securing_JWT.pdf
 11. Road to OSWE
   * https://www.blackhat.com/docs/us-16/materials/us-16-Kaiser-Pwning-Your-Java-Messaging-With-Deserialization-Vulnerabilities.pdf
   * https://deadcode.me/blog/2016/09/02/Blind-Java-Deserialization-Commons-Gadgets.html
@@ -86,3 +95,6 @@
   * https://www.youtube.com/watch?v=O7-qHZFxjgk ( LFI )
   * https://www.youtube.com/watch?v=DYLDG_2Vs3E ( time base sql with script)
   * https://www.youtube.com/watch?v=HbzI3ubOos0 (Steal cookie with XSS)
+12. WSO2 API Security Best Practice 
+  * https://docs.wso2.com/display/Security/WSO2+Security+Reward+and+Acknowledgement+Program
+  * https://medium.com/@jrathnayake/api-security-request-response-validation-using-api-manager-52aaf76bc855
