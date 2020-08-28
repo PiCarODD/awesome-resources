@@ -84,6 +84,7 @@
   * https://speakerdeck.com/samjulien/becoming-a-secret-agent-securing-your-graphql-backend-with-jwts?slide=92
   * https://speakerdeck.com/genehack/json-web-tokens-will-improve-your-life-2?slide=64
   * https://owasp.org/www-chapter-vancouver/assets/presentations/2020-01_Attacking_and_Securing_JWT.pdf
+  * https://published-prd.lanyonevents.com/published/rsaus20/sessionsFiles/17460/2020_USA20_MBS1-F03_01_API%20Abuse%20Through%20Mobile%20Apps%20New%20Attacks%20New%20Defenses.pdf
 11. Road to OSWE
   * https://www.blackhat.com/docs/us-16/materials/us-16-Kaiser-Pwning-Your-Java-Messaging-With-Deserialization-Vulnerabilities.pdf
   * https://deadcode.me/blog/2016/09/02/Blind-Java-Deserialization-Commons-Gadgets.html
