@@ -88,6 +88,7 @@
 11. Road to OSWE
   * https://www.blackhat.com/docs/us-16/materials/us-16-Kaiser-Pwning-Your-Java-Messaging-With-Deserialization-Vulnerabilities.pdf
   * https://deadcode.me/blog/2016/09/02/Blind-Java-Deserialization-Commons-Gadgets.html
+  * https://hub.schellman.com/blog/oswe-review-and-exam-preparation-guide
   * https://deadcode.me/blog/2016/09/18/Blind-Java-Deserialization-Part-II.html
   * https://pwnisher.gitlab.io/nodejs/sandbox/2019/02/21/sandboxing-nodejs-is-hard.html
   * https://portswigger.net/research/dom-based-angularjs-sandbox-escapes
