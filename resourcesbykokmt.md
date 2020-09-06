@@ -31,7 +31,6 @@
   * https://hella-secure.com/who-is-threat-modeling/
   * https://medium.com/@andrewaeva_55205/how-dangerous-is-request-splitting-a-vulnerability-in-golang-or-how-we-found-the-rce-in-portainer-7339ba24c871
   * https://medium.com/csg-govtech/closing-the-loop-practical-attacks-and-defences-for-graphql-apis-138cb667aaff
-  * 
 6. Android Pentest
   * https://github.com/federicodotta/Brida
   * https://blog.assetnote.io/bug-bounty/2020/02/01/expanding-attack-surface-react-native/
@@ -85,6 +84,7 @@
   * https://speakerdeck.com/genehack/json-web-tokens-will-improve-your-life-2?slide=64
   * https://owasp.org/www-chapter-vancouver/assets/presentations/2020-01_Attacking_and_Securing_JWT.pdf
   * https://published-prd.lanyonevents.com/published/rsaus20/sessionsFiles/17460/2020_USA20_MBS1-F03_01_API%20Abuse%20Through%20Mobile%20Apps%20New%20Attacks%20New%20Defenses.pdf
+  * https://apisecurity.io/encyclopedia/content/owasp/api1-broken-object-level-authorization.htm
 11. Road to OSWE
   * https://www.blackhat.com/docs/us-16/materials/us-16-Kaiser-Pwning-Your-Java-Messaging-With-Deserialization-Vulnerabilities.pdf
   * https://deadcode.me/blog/2016/09/02/Blind-Java-Deserialization-Commons-Gadgets.html
