@@ -66,6 +66,7 @@
   * https://www.youtube.com/watch?v=558MFgH1t9g&feature=emb_logo
   * https://github.com/imperva/automatic-api-attack-tool
   * https://ctf-wiki.github.io/ctf-wiki/web/php/php/#preg_match-code-execution php
+  * https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142
 10. API Security Checklist
   * https://rhinosecuritylabs.com/application-security/simplifying-api-pentesting-swagger-files/
   * https://unit42.paloaltonetworks.com/attackers-tactics-and-techniques-in-unsecured-docker-daemons-revealed/
@@ -97,6 +98,12 @@
   * https://www.youtube.com/watch?v=O7-qHZFxjgk ( LFI )
   * https://www.youtube.com/watch?v=DYLDG_2Vs3E ( time base sql with script)
   * https://www.youtube.com/watch?v=HbzI3ubOos0 (Steal cookie with XSS)
+  * http://essentialexploit.com/AWAE.html
+  * https://wiki.zenk-security.com/doku.php?id=oswe_awae
+  * https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/
 12. WSO2 API Security Best Practice 
   * https://docs.wso2.com/display/Security/WSO2+Security+Reward+and+Acknowledgement+Program
   * https://medium.com/@jrathnayake/api-security-request-response-validation-using-api-manager-52aaf76bc855
+13. Web Security Best Practice
+  * https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d nodejs security checklist
+  * https://btlr.dev/blog/how-to-find-vulnerabilities-in-code-bad-words
