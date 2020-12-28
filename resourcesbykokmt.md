@@ -107,3 +107,8 @@
 13. Web Security Best Practice
   * https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d nodejs security checklist
   * https://btlr.dev/blog/how-to-find-vulnerabilities-in-code-bad-words
+14. Code Review
+  * https://code-audit-training.gitlab.io/
+  * https://www.slideshare.net/PaulIonescu5/security-code-review-101
+  * https://trendmicro.github.io/SecureCodingDojo/codereview101/
+  
